@@ -6,7 +6,7 @@ This repository contains the code, data and experiment results for the paper [Be
 In this study we propose a novel syntax guided attention mechanism for Transformer-based models for software engineering tasks. The below figure shows learned self-attention heads attention weight assignment difference between default Transformer and our proposed attention guidance mechanism.
 
 
-<img src="https://github.com/Jirigesi/4share/blob/main/figures/ag.png" width="480">
+<img src="https://github.com/syntaxGuiding/SytaGuid/blob/main/figures/ag.png" width="480">
 
 In this study, we conudcted experiments on three software engineering tasks: code clone detection, cloze test and code translation. The below table shows the details of our task description, dataset source, dataset size and the number of parameters in the Transformer model.
 
